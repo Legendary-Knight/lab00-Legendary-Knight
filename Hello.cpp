@@ -1,5 +1,5 @@
 #include iostream
 using namespace std;
-int Hello(){
+int main(){
 	cout<< "Hello, world!" << endl << "I am ready for CS24!";
 }
