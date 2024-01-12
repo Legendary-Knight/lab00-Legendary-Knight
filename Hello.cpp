@@ -1,2 +1,5 @@
+#include iostream
+using namespace std;
 int Hello(){
-	std.cout<< "Hello, world!" << endl << "I am ready for CS24!";
+	cout<< "Hello, world!" << endl << "I am ready for CS24!";
+}
